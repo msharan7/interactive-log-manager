@@ -1,0 +1,8 @@
+# purpose is a general test for m command and multiple r commands
+m 02:02:02:02:02
+g
+r
+p
+r
+p
+q

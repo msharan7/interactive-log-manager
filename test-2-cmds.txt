@@ -1,0 +1,8 @@
+# Purpose is to test proper ordering and tiebreaking
+t 01:01:01:01:01|01:01:01:01:02
+g
+r
+p
+s
+p
+q

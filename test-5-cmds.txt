@@ -1,0 +1,17 @@
+# purpose is general k command test, splits up words properly, case sensitive, previous search can be 0, duplicates
+k packet received
+g
+r
+p
+# Now search for a keyword that matches nothing
+k nonexistent
+g
+r
+p
+k sending query
+g
+k query sending
+g
+k bad bad packet
+g
+q

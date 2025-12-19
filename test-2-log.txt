@@ -1,0 +1,6 @@
+01:01:01:01:01|B|blank
+01:01:01:01:01|A|same ts and different category
+01:01:01:01:01|A|same ts and same category and different ID
+01:01:01:01:01|A|duplicate test
+01:01:01:01:01|A|duplicate test
+01:01:01:01:02|A|later ts

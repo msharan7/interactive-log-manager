@@ -1,0 +1,18 @@
+# more k command tests (in my other k tests, I did not really account for numbers or letters mixed with numbers)
+k caen p14 pgm
+g
+r
+p
+k thREad cpu suspending
+g
+k db query none
+g
+k pid
+g
+k 8432
+g
+k pane1
+g
+k ui-pane1 click
+g
+q

@@ -1,0 +1,8 @@
+# additional c test
+c db
+g
+c db mgr
+g
+r
+p
+q
